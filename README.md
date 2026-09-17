@@ -114,27 +114,9 @@ Example:
     "Audio": [".mp3", ".wav", ".flac"]
 }
 
-This allows categories and supported extensions to be modified without changing the main Python program.
+This allows categories and supported extensions to be modified without changing the main Python program
 
-# What I Learned
-
-This project helped me practice:
-
-* Python functions
-* Dictionaries and lists
-* Loops and conditional statements
-* Exception handling
-* `pathlib`
-* File and directory operations
-* String formatting and f-strings
-* JSON file handling
-* User input validation
-* Boolean logic
-* Program structure
-* Basic logging
-* Defensive programming
-
-  Version:
+ # Version:
 
 ""Version 1.0""
 
